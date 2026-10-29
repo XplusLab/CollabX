@@ -1,0 +1,4 @@
+# Installers are attached to GitHub releases, never committed.
+*.msi
+*.zip
+*.sha256
