@@ -29,4 +29,8 @@ Only needed for the "CollabX server" chat storage option. Download `CollabX.Serv
 ## Support
 info@xplus-studio.com · https://xplus-studio.com
 
-© 2026 X+1 Studio. All rights reserved.
+## License
+CollabX is licensed under the [Apache License 2.0](LICENSE). See [NOTICE](NOTICE) for attribution.
+The X+1 Studio name and logo are trademarks of X+1 Studio and are not covered by the license.
+
+© 2026 X+1 Studio
